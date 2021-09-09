@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+h1{
+text-align: center;
+}
+p{
+  text-align: center;
+}
+
+h3{
+  color: brown;
+  text-align: center;
+}
+.form {
+  display: flex;
+  background-color: azure;
+  justify-content: center;
+}
+input {
+  padding: 2px;
+  margin: 2px;
+}

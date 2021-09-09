@@ -1,0 +1,11 @@
+.navbar-nav{
+    color: brown;
+    text-align: center;
+    position: sticky;
+    top: 0;
+}
+
+.navbar-nav li{
+    display: inline-block;
+    margin: 5px;
+}
